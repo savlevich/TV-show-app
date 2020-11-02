@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowDetails should render ShowDetails 1`] = `
+<DocumentFragment>
+  <div
+    class="content-wrapper"
+  >
+    <div
+      class="show__info"
+    >
+      <h2
+        class="show__title"
+      >
+        The Powerpuff Girls
+      </h2>
+      <div
+        class="show__picture__wrapper"
+      >
+        <img
+          alt="show"
+          class="show__picture"
+          height="400"
+          src=""
+          width="300"
+        />
+      </div>
+      <div
+        class="show__desc"
+      />
+    </div>
+    <div
+      class="show__episodes_title"
+    >
+      Episodes
+    </div>
+    <ul
+      class="show__episodes_list"
+    >
+      <li
+        class="show__episodes_list_item"
+      >
+        <a
+          class="show__episodes_list_item"
+          href="/episodes/undefined/the-powerpuff-girls"
+        >
+          Season  episode  Escape from Monster Island
+        </a>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

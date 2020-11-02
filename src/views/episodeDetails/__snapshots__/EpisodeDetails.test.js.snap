@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpisodeDetails should render EpisodeDetails 1`] = `
+<DocumentFragment>
+  <div
+    class="content-wrapper"
+  >
+    <div
+      class="episode__info"
+    >
+      <h2
+        class="episode__title"
+      >
+        The Wrinklegruff Gals
+      </h2>
+      <div
+        class="episode__picture__wrapper"
+      >
+        <img
+          alt="show"
+          class="episode__picture"
+          height="400"
+          src="no-image.png"
+          width="300"
+        />
+      </div>
+      <div
+        class="episode__desc"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
